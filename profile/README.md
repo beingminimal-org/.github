@@ -1,3 +1,5 @@
-## Hello World
+### beingminimal-org
 
 Welcome to beingminimal-org public profile.
+
+Thanks
